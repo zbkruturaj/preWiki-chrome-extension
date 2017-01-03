@@ -1,2 +1,4 @@
 # preWiki-chrome-extension
 On Wikipedia, replaces existing wiki tool-tip with a summary of the topic that you hover upon.
+
+Tl;dr: On Wikipedia, replaces existing wiki tool-tip with a summary of the topic that you hover upon.  Whenever, you end up in a new previously unexplored corners of Wikipedia, you come across terms that are completely unfamiliar and you need to open up a new tab just to know what that term means. You just need to know a quick one line summary but this task of opening up a new tab and checking the summary, takes up your precious time and if you are like me that tab remains open for the rest of the session. So, the extension that I made works with wiki. For all the internal links, it gives a tool-tip that gives a summary of the wiki article instead of the traditional tool-tip that just gave the text of the link itself.  Warning: Current version may interfere with accessibility tools that read off tool-tips.
